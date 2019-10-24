@@ -26,7 +26,7 @@ MVVM-NY-Times-Most-Popular-Articles-Android is MVVM sample project which shows p
 
 
 
-## Layered Architecture
+## Architecture
 
 
 <img src="MVVMArchScreen.jpg"/>
