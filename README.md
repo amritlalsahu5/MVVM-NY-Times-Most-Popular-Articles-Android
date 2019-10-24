@@ -1,5 +1,7 @@
 # MVVM-NY-Times-Most-Popular-Articles-Android
 [![platform](https://img.shields.io/badge/platform-Android-yellow.svg)](https://www.android.com)
+
+
 MVVM-NY-Times-Most-Popular-Articles-Android is MVVM sample project which shows popular news which is fetch from NY Times API.
 
 **This application was done using MVVM + RXJava2 + Dagger2 + Live Data.**
