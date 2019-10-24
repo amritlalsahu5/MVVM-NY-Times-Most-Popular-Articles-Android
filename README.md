@@ -16,8 +16,10 @@ MVVM-NY-Times-Most-Popular-Articles-Android is MVVM sample project which shows p
 **Please click the image below to enlarge.**
 
 
-<img src="screenshot1.png" height="420" width="240" hspace="20"/>
-<img src="screenshot2.png" height="420" width="240" hspace="20"/>
+<p>
+<img src="Screenshot1.png" width="200"/>
+<img src="Screenshot2.png" width="200"/>
+</p>
 
 
 ## UI Testing Screenshot
